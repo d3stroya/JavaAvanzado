@@ -1,0 +1,2 @@
+El Congreso de los diuptados está configurando un nuevo software que muestre el gobierno actual.
+Crea una aplicación con el patrón singleton que, con una sola instancia, devuelva el partido que gobierna en cada momento.
