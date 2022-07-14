@@ -20,3 +20,4 @@ Existen 3 tipos:
 
 
 2. Crea una pequeña aplicación implementando el patrón Singlenton y demuestra que, efectivamente, no crea instancias nuevas. Puedes tomar la sesión 7 como referencia.
+https://github.com/d3stroya/JavaAvanzado/tree/main/patrones-diseno/src/creacionales/singleton/ejemplo1
