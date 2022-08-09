@@ -1,5 +1,3 @@
-package estructurales.adapter;
-
 public class PowerAdapter implements Enchufable {
     // Instanciar clase que hay que adaptar
     public Lightbulb lightbulb = new Lightbulb();

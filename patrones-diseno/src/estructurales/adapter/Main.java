@@ -1,4 +1,3 @@
-package estructurales.adapter;
 // ADAPTER: Crea una clase que permite que clases con la misma implementación y clases sin esa implementación funcionen correctamente. Es como un adaptador de enchufes.
 public class Main {
     public static void main(String[] args) {

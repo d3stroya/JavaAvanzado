@@ -1,5 +1,3 @@
-package estructurales.adapter;
-
 public class Lampara implements Enchufable {
     boolean encendido = false;
 

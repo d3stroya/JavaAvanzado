@@ -1,5 +1,3 @@
-package estructurales.adapter;
-
 public class Nevera implements Enchufable {
     boolean encendido = false;
 

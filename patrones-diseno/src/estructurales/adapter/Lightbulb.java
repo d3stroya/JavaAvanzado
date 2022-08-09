@@ -1,5 +1,3 @@
-package estructurales.adapter;
-
 public class Lightbulb {
     boolean poweredOn = false;
     int voltaje = 0;
